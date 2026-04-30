@@ -1,11 +1,11 @@
 # English
 
 ## Save
-### Cloud
-- [gameRecord model](Save/Cloud/gameRecord.md)
+### [Cloud](Save/Cloud/README.MD)
+How to request save data, and model definitions.
 
 # 中文
 
 ## 存檔
-### 雲端
-- [gameRecord 模型](Save/Cloud/gameRecord.md)
+### [雲端](Save/Cloud/README.MD)
+請求以及模型定義等等。
